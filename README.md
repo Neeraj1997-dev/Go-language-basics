@@ -12,85 +12,85 @@ dynamic-typing capability, many advanced built-in types such as variable length 
  * Go uses interfaces as the building blocks of code reusability.
 
 The basic structure of a Go programs consists of following parts:-
-a.Package Declaration
-b.Import Packages
-c.Variables
-d.Statements and Expressions
-e.Functions
+a.Package Declaration,
+b.Import Packages,
+c.Variables,
+d.Statements and Expressions,
+e.Functions,
 f.Comments
 
 ## Go Language Index:
 
 ### Go Language
-Go Installation
-Go Hello World
-Go Data Types
-Go Package
+Installation,
+Hello World,
+Data Types,
+Package,
 
 ### Go Controls
-Go if-else
-Go Switch
-Go For
-Go For Range
-Go Goto
-Go Break
-Go Continue
-Go Comments
-Go Constants
-Go Type Casting
+if-else,
+Switch,
+For,
+For Range,
+Goto,
+Break,
+Continue,
+Comments,
+Constants,
+Type Casting,
 
 ### Go Functions
-Go Functions
-Go Recursion
-Go Closure
+Functions,
+Recursion,
+Closure,
 
 ### Go Arrays
-Go Array
-Go Slice
-Go Command Args
+Array,
+Slice,
+Command Args,
 
 ### Go Strings
-Go String
-Go Regex
+String,
+Regex,
 
 ### Go Types
-Go Struct
-Go Interface
-Go Pointer
-Go Reflect
-Go Rune
+Struct,
+Interface,
+Pointer,
+Reflect,
+Rune
 
 ### Go Map
-Go Map
+Map
 
 ### Go Error
-Go Error
-Go Recover
-Go Defer
-Go Panic
+Error,
+Recover,
+Defer,
+Panic
 
 ### Go Concurrency
-Go Concurrency
-Go Race
-Go Mutex
-Go Atomic Variable
-Go Channel
-Go Worker Pools
+Concurrency,
+Race,
+Mutex,
+Atomic Variable,
+Channel,
+Worker Pools,
 
 ### Go Time
-Go Time
-Go Epoch
-Go Tickers
+Time,
+Epoch,
+Tickers
 
 ### Go Misc
-Go File I/O
-Go HTTP Server
-Go URL Parsing
-Go Rest API
-Go Base64 Encoding
-Go Random Number
-Go Sorting
-Go JSON
+File I/O,
+HTTP Server,
+URL Parsing,
+Rest API,
+Base64 Encoding,
+Random Number,
+Sorting,
+JSON
 
 
 
